@@ -9,7 +9,7 @@ I'm passionate about software development, open source, and continuous learning.
 
 ---
 
-- 🔭 I’m currently working on: SpeechApp and CurrentEvents Debrief
+- 🔭 I’m currently working on: SpeechApp, CurrentEvents Debrief, and KronosGPT
 - 🌱 I’m learning: Java, Next.js, Javascript, HTML, CSS, Python, MongoDB, and AI
 
 <!--
