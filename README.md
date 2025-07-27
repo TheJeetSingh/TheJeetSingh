@@ -9,8 +9,8 @@ I'm passionate about software development, open source, and continuous learning.
 
 ---
 
-- 🔭 I’m currently working on: SpeechApp, and SpotifyAIDJ
-- 🌱 I’m learning: Java, Next.js, Javascript, HTML, CSS, Python, MongoDB, and AI
+- 🔭 I’m currently working on: SpeechApp, and The-Social-Network
+- 🌱 I’m learning: Java, Next.js, React, HTML, CSS, Python, MongoDB, AI, and Supabase
 
 
 <!--
